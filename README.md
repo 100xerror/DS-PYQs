@@ -1,6 +1,6 @@
 # DS-PYQs: Your Ultimate Data Structures Exam Prep Resource
 
-Data Structures Banner
+![Data Structure Introduction](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20230706095706/intro-data-structure-%E2%80%93-1.png)
 
 Welcome to the DS-PYQs repository! This is your one-stop destination for Data Structures (DS) Previous Year Questions (PYQs). Whether you're preparing for exams or looking to strengthen your understanding of data structures, you've come to the right place.
 
